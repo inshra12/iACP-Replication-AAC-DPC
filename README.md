@@ -13,7 +13,7 @@ This project is a replication of the **iACP (Identification of Anticancer Peptid
 
 - 🧬 **Dataset:**  
   Supporting Information S1 from the original paper  
-  (138 ACPs + 206 non-ACPs)
+  (144 ACPs + 206 non-ACPs)
 
 - 🧠 **Features Used:**  
   - AAC (Amino Acid Composition)  
